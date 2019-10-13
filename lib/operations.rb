@@ -3,7 +3,7 @@ if speed < 60
   return "true"
 if speed > 40 
   return "true"
-  #elseif speed between 40 and 60 
+  elseif speed < 40 > 60 
    # return "false"
  end
 end
